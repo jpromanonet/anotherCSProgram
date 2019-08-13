@@ -1,7 +1,5 @@
 # Project List from Youtube tutorials
 
----
-
 ## JavaScript, HTML & CSS
 
 ### Music App With Javascript
