@@ -48,6 +48,12 @@ https://www.youtube.com/watch?v=49pYIMygIcU
 
 https://www.youtube.com/watch?v=HEsAr2Yt2do
 
-###
+### The Snake Game Using JavaScript and HTML5
+
+https://www.youtube.com/watch?v=9TcU2C1AACw
+
+### Small Projects | Web Dev Simplified (19 Projects)
+
+https://www.youtube.com/watch?v=j59qQ7YWLxw&list=PLZlA0Gpn_vH8DWL14Wud_m8NeNNbYKOkj
 
 ## Android
