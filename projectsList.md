@@ -32,6 +32,22 @@ Part 1: https://www.youtube.com/watch?v=FyZ4_T0GZ1U
 
 Part 2: https://www.youtube.com/watch?v=opA9Tc-cqgc
 
+### To Do List App in JavaScript
+
+https://www.youtube.com/watch?v=b8sUhU_eq3g
+
+### Code Ping Pong Game
+
+https://www.youtube.com/watch?v=nl0KXCa5pJk
+
+### Create a Multiple Choice Quiz App Using JavaScript
+
+https://www.youtube.com/watch?v=49pYIMygIcU
+
+### Tetris Game Using JavaScript and HTML5
+
+https://www.youtube.com/watch?v=HEsAr2Yt2do
+
 ###
 
 ## Android
