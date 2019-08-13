@@ -109,3 +109,23 @@ https://www.youtube.com/watch?v=eix_DyMnxHI&list=PLxefhmF0pcPnpQAYwO2B3JapObS4hA
 ### INSTAGRAM App with Firebase
 
 https://www.youtube.com/watch?v=fYkpwqPXC-8&list=PLzLFqCABnRQduspfbu2empaaY9BoIGLDM
+
+### Create a simple Click Speed Game
+
+https://www.youtube.com/watch?v=c6aEOFHP3Z0&list=PLzLFqCABnRQcKt9l0GK06tXffg9weZb4V
+
+### Make an Android App Like TINDER - Redesigning the Entire App
+
+https://www.youtube.com/watch?v=S302SksTMaE&list=PLxabZQCAe5fio9dm1Vd0peIY6HLfo5MCf
+
+### Make an Android App Like WHATSAPP- Redesigning the Entire App
+
+https://www.youtube.com/watch?v=mPIEilcFQ9k&list=PLxabZQCAe5fgGQggJxp5nuI1ESzP-oMED
+
+### Make an Android App Like SNAPCHAT - Redesigning the Entire App
+
+https://www.youtube.com/watch?v=8fDkWWbmQo0&list=PLxabZQCAe5fjMRCDY8OUXoPnhQ2AiaM05
+
+### Make an Android App Like UBER - Redesigning the Entire App
+
+https://www.youtube.com/watch?v=7HbQx0lwRww&list=PLxabZQCAe5fgXx8cn2iKOtt0VFJrf5bOd
