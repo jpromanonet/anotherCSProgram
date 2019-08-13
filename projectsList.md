@@ -26,4 +26,12 @@ https://www.youtube.com/watch?v=jaVNP3nIAv0
 
 https://www.youtube.com/watch?v=0ArCFchlTq4
 
+### 2D Breakout Game Using JavaScript and HTML
+
+Part 1: https://www.youtube.com/watch?v=FyZ4_T0GZ1U
+
+Part 2: https://www.youtube.com/watch?v=opA9Tc-cqgc
+
+###
+
 ## Android
