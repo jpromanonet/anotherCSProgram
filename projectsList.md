@@ -129,3 +129,11 @@ https://www.youtube.com/watch?v=8fDkWWbmQo0&list=PLxabZQCAe5fjMRCDY8OUXoPnhQ2Aia
 ### Make an Android App Like UBER - Redesigning the Entire App
 
 https://www.youtube.com/watch?v=7HbQx0lwRww&list=PLxabZQCAe5fgXx8cn2iKOtt0VFJrf5bOd
+
+### Android Development Tutorial - My Restaurant Part 1 Project Overview
+
+https://www.youtube.com/watch?v=gk8a41AH_lo&list=PLaoF-xhnnrRVf_VJ_lfYXlLTcLyJ-cq4x
+
+### Android Development Tutorial - Barber Booking App part 1 Authenticate User
+
+https://www.youtube.com/watch?v=_EHHe91-P1c&list=PLaoF-xhnnrRUzve8vBXbPAhONMgTqHQ8i
