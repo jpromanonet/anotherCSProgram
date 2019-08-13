@@ -57,3 +57,55 @@ https://www.youtube.com/watch?v=9TcU2C1AACw
 https://www.youtube.com/watch?v=j59qQ7YWLxw&list=PLZlA0Gpn_vH8DWL14Wud_m8NeNNbYKOkj
 
 ## Android
+
+### Develop and Publish Flappy Bird in 3 Hours With Unity3D
+
+https://www.youtube.com/watch?v=A-GkNM8M5p8
+
+### Make an Android App like Uber and Careem
+
+https://www.youtube.com/watch?v=Uom9BsMhG5o&list=PLxefhmF0pcPl6gcWvrpTbjGO7rcMWY1jT
+
+### Android Web Browser App
+
+https://www.youtube.com/watch?v=YaBo_KGnznM&list=PLxefhmF0pcPkQ-AJQPfQ7vE6HFNV5ubgj
+
+### Android Studio Google Maps
+
+https://www.youtube.com/watch?v=wlvevV3S1y0&list=PLxefhmF0pcPlGUW8tyyOJ8-uF7Nk2VpSj
+
+### AI Music Player App
+
+https://www.youtube.com/watch?v=xZcHWz077zA&list=PLxefhmF0pcPmPx6bzZNNi61AIodtigWlD
+
+### Make an Android App like WhatsApp
+
+https://www.youtube.com/watch?v=gPqJcPtN18I&list=PLxefhmF0pcPmtdoud8f64EpgapkclCllj
+
+### Make an Android app like Amazon & Ali Express
+
+https://www.youtube.com/watch?v=6keVIot98QU&list=PLxefhmF0pcPlqmH_VfWneUjfuqhreUz-O
+
+### Firebase Social Network App
+
+https://www.youtube.com/watch?v=vplEwIJzYZk&list=PLxefhmF0pcPnTQ2oyMffo6QbWtztXu1W_
+
+### Music Player App in Android Studio
+
+https://www.youtube.com/watch?v=8tVOHGyA4cE&list=PLxefhmF0pcPn8MKo-SDNw_bwbtifa65h9
+
+### Make your own Android Facebook App 01
+
+https://www.youtube.com/watch?v=mSAa-Ttbq68&list=PLxefhmF0pcPlTkt7qOT341KoQXu-vhe6X
+
+### Android Calculator App
+
+https://www.youtube.com/watch?v=IkQ350RsosE&list=PLxefhmF0pcPkFO5yM0Cr0VF_aQJYwKUgd
+
+### Android Chat Application Development Tutorial 01
+
+https://www.youtube.com/watch?v=eix_DyMnxHI&list=PLxefhmF0pcPnpQAYwO2B3JapObS4hAub0
+
+### INSTAGRAM App with Firebase
+
+https://www.youtube.com/watch?v=fYkpwqPXC-8&list=PLzLFqCABnRQduspfbu2empaaY9BoIGLDM
