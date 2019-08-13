@@ -137,3 +137,15 @@ https://www.youtube.com/watch?v=gk8a41AH_lo&list=PLaoF-xhnnrRVf_VJ_lfYXlLTcLyJ-c
 ### Android Development Tutorial - Barber Booking App part 1 Authenticate User
 
 https://www.youtube.com/watch?v=_EHHe91-P1c&list=PLaoF-xhnnrRUzve8vBXbPAhONMgTqHQ8i
+
+### Simple Timetable App Tutorial
+
+https://www.youtube.com/watch?v=McXZPyiC96I&list=PLbte_tgDKVWRg-wgze_xTqC_Vzr7qxGZG
+
+### Home Automation App
+
+https://www.youtube.com/watch?v=qDif7GIsmg4&list=PLbte_tgDKVWQMdIVf6rLiZnrP9YjRXuZ-
+
+## Python
+
+## Java
