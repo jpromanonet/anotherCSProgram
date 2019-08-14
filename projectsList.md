@@ -1,6 +1,6 @@
 # Project List from Youtube tutorials
 
-## JavaScript, HTML & CSS
+## 1. JavaScript, HTML & CSS
 
 ### Music App With Javascript
 
@@ -56,7 +56,7 @@ https://www.youtube.com/watch?v=9TcU2C1AACw
 
 https://www.youtube.com/watch?v=j59qQ7YWLxw&list=PLZlA0Gpn_vH8DWL14Wud_m8NeNNbYKOkj
 
-## Android
+## 2. Android
 
 ### Develop and Publish Flappy Bird in 3 Hours With Unity3D
 
@@ -146,6 +146,50 @@ https://www.youtube.com/watch?v=McXZPyiC96I&list=PLbte_tgDKVWRg-wgze_xTqC_Vzr7qx
 
 https://www.youtube.com/watch?v=qDif7GIsmg4&list=PLbte_tgDKVWQMdIVf6rLiZnrP9YjRXuZ-
 
-## Python
+## 3. Python
 
-## Java
+### Python Game Tutorial: Pong
+
+https://www.youtube.com/watch?v=C6jJg9Zan7w
+
+### Practical Python Project: Web Scraper Prototype (Semi-Livecoding)
+
+https://www.youtube.com/watch?v=7SWVXPYZLJM
+
+### Build A Python App That Tracks Amazon Prices!
+
+https://www.youtube.com/watch?v=Bg9r_yLk7VY
+
+### Python for absolute beginners 2019 - TIC TAC TOE project
+
+https://www.youtube.com/watch?v=BHh654_7Cmw
+
+### It's Triggy! | Programming JARVIS from Ironman in Python
+
+https://www.youtube.com/watch?v=drFbAc80-cE
+
+### Cool Python Projects
+
+https://www.youtube.com/playlist?list=PLr_8mLfc-HknFzWb8ibfZ0U6BKMkAsr_J
+
+### Snake Game Python Tutorial
+
+https://www.youtube.com/watch?v=CD4qAhfFuLo
+
+### Python Projects with Source Code
+
+https://www.youtube.com/playlist?list=PLr2Jraft7i9oImbwqcRtf9HeSNWR8KLdw
+
+### Python projects
+
+https://www.youtube.com/playlist?list=PL_iZ8cQZDSSBe3UJg99ioPe2TfzXOxYZY
+
+### Python Game Programming
+
+https://www.youtube.com/channel/UC2vm-0XX5RkWCXWwtBZGOXg
+
+### How to Create an Advanced Restaurant Management Systems in Python - Full Tutorial
+
+https://www.youtube.com/watch?v=-Bs4-Uerm_o
+
+## 4. Java
