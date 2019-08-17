@@ -221,3 +221,19 @@ https://www.youtube.com/watch?v=K9qMm3JbOH0
 ### Building a School Management System
 
 https://www.youtube.com/watch?v=e0X00EoFQbE
+
+## 5. Django
+
+### Creating a Weather App in Django Using Python Requests [Part 1]
+
+https://www.youtube.com/watch?v=v7xjdXWZafY
+
+### Build an Ecommerce Website with Django
+
+https://www.youtube.com/watch?v=z4USlooVXG0&list=PLLRM7ROnmA9F2vBXypzzplFjcHUaKWWP5
+
+### Just Django Channel
+
+https://www.youtube.com/channel/UCRM1gWNTDx0SHIqUJygD-kQ
+
+###
