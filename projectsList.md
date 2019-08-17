@@ -60,6 +60,14 @@ https://www.youtube.com/watch?v=9TcU2C1AACw
 
 https://www.youtube.com/watch?v=j59qQ7YWLxw&list=PLZlA0Gpn_vH8DWL14Wud_m8NeNNbYKOkj
 
+### Budgetry Webpage Project in HTML5 and CSS
+
+https://www.youtube.com/watch?v=JypvfEPGWUY&list=PL_Ke9hJMFeR-j24W-DH3coIih2WlRDMqn
+
+### 4 DOM Pig Game in HTML5 & CSS
+
+https://www.youtube.com/watch?v=jSs92OgzARY&list=PL_Ke9hJMFeR_LDN6_El0l4G15t1ZHXRF4
+
 ## 2. Android
 
 ### Develop and Publish Flappy Bird in 3 Hours With Unity3D
@@ -206,6 +214,26 @@ https://www.youtube.com/channel/UCS3W5vFugqi6QcsoAIHcMpw/featured
 
 https://www.youtube.com/watch?v=esIfJnbrJo8&list=PL_Ke9hJMFeR_TWfBOug40-2uSANxa8dtE
 
+### Automated Car Parking System
+
+https://www.youtube.com/watch?v=aeJ5ssRFpJY&list=PL_Ke9hJMFeR_2ceTLIdjy7F25WHNhXdPg
+
+### Student Database using Oracle
+
+https://www.youtube.com/watch?v=LbXSJucmAQc&list=PL_Ke9hJMFeR9p9FimgpXV8OjQylKBdDQs
+
+### Employee Management System
+
+https://www.youtube.com/watch?v=MhRhFUzKVBk&list=PL_Ke9hJMFeR9yaSvnXkA_aEbAHmwFWJJm
+
+### Banking Management System
+
+https://www.youtube.com/watch?v=t8VH8QNToBw&list=PL_Ke9hJMFeR_2F2JXcF8txUCxJGtbIZ6E
+
+### Messenger Project In Java - Server, Connection and Streams
+
+https://www.youtube.com/watch?v=PjLGP1Nj2-4&list=PL_Ke9hJMFeR8Zo4FZgv5sV5D72lIqs7cJ
+
 ### Simple Bank Application
 
 https://www.youtube.com/watch?v=lHPLa97V_-o
@@ -239,3 +267,15 @@ https://www.youtube.com/channel/UCRM1gWNTDx0SHIqUJygD-kQ
 ### Python Django Projects
 
 https://www.youtube.com/playlist?list=PLmjnB62OOeRSqXaUgT97ILffpQfUfLTxa
+
+### To-DO app with Django
+
+https://www.youtube.com/watch?v=fEqOW6FrokA
+
+### Build a Budget Application
+
+https://www.youtube.com/playlist?list=PLbpAWbHbi5rNUuLTzreCl1g212G7qgzpR
+
+### Inventory Management System from Scratch
+
+https://www.youtube.com/watch?v=csOmZeV5IWE&list=PLTPOhsA1ovnkyBbnG5RwF9YFWLCqsD0Nf
