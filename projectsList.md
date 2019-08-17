@@ -36,6 +36,10 @@ Part 2: https://www.youtube.com/watch?v=opA9Tc-cqgc
 
 https://www.youtube.com/watch?v=b8sUhU_eq3g
 
+### Typing Speed Game Using Plain JavaScript
+
+https://www.youtube.com/watch?v=Hp29rMkw3pc
+
 ### Code Ping Pong Game
 
 https://www.youtube.com/watch?v=nl0KXCa5pJk
@@ -205,3 +209,15 @@ https://www.youtube.com/watch?v=esIfJnbrJo8&list=PL_Ke9hJMFeR_TWfBOug40-2uSANxa8
 ### Simple Bank Application
 
 https://www.youtube.com/watch?v=lHPLa97V_-o
+
+### Java Project | Insert Update Delete Search Java Netbeans MySql | step by step | source code | CRUD 1
+
+https://www.youtube.com/watch?v=RLvt5ePvEco
+
+### Develop a Brick Breaker Game
+
+https://www.youtube.com/watch?v=K9qMm3JbOH0
+
+### Building a School Management System
+
+https://www.youtube.com/watch?v=e0X00EoFQbE
