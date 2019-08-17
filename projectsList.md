@@ -236,4 +236,6 @@ https://www.youtube.com/watch?v=z4USlooVXG0&list=PLLRM7ROnmA9F2vBXypzzplFjcHUaKW
 
 https://www.youtube.com/channel/UCRM1gWNTDx0SHIqUJygD-kQ
 
-###
+### Python Django Projects
+
+https://www.youtube.com/playlist?list=PLmjnB62OOeRSqXaUgT97ILffpQfUfLTxa
