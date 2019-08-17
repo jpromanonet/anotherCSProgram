@@ -193,3 +193,11 @@ https://www.youtube.com/channel/UC2vm-0XX5RkWCXWwtBZGOXg
 https://www.youtube.com/watch?v=-Bs4-Uerm_o
 
 ## 4. Java
+
+### Java Projects Channel
+
+https://www.youtube.com/channel/UCS3W5vFugqi6QcsoAIHcMpw/featured
+
+### Library Management System
+
+https://www.youtube.com/watch?v=esIfJnbrJo8&list=PL_Ke9hJMFeR_TWfBOug40-2uSANxa8dtE
