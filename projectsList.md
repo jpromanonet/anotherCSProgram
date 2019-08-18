@@ -2,9 +2,9 @@
 
 ## 1. JavaScript, HTML & CSS
 
-### Music App With Javascript :heavy_check_mark:
+### Music App With Javascript
 
-https://www.youtube.com/watch?v=2VJlzeEVL8A
+https://www.youtube.com/watch?v=2VJlzeEVL8A :heavy_check_mark:
 
 ### Recipe App With React
 
