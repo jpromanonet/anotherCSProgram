@@ -6,7 +6,7 @@
 
 https://www.youtube.com/watch?v=2VJlzeEVL8A 
 
-### Recipe App With React
+### Recipe App With React :heavy_check_mark:
 
 https://www.youtube.com/watch?v=U9T6YkEDkMo
 
