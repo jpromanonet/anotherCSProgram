@@ -10,7 +10,7 @@ https://www.youtube.com/watch?v=2VJlzeEVL8A
 
 https://www.youtube.com/watch?v=U9T6YkEDkMo
 
-### Rock Paper Scissors Game Tutorial
+### Rock Paper Scissors Game Tutorial :heavy_check_mark:
 
 https://www.youtube.com/watch?v=qWPtKtYEsN4
 
