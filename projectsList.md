@@ -349,3 +349,63 @@ https://www.youtube.com/playlist?list=PLF0fAweo0Koi9QTvR4U-j7LphFx_Pnh-R
 https://www.youtube.com/playlist?list=PLIjdNHWULhPSZFDzQU6AnbVQNNo1NTRpd
 
 ## 8. PHP
+
+### Job Listener
+
+https://www.youtube.com/watch?v=LEkjrQMmIK0
+
+### Chat App
+
+https://www.youtube.com/playlist?list=PLxefhmF0pcPkatGBnqCSa7ZrU4axKrm6p
+
+### Social Network Clone
+
+https://www.youtube.com/watch?v=9-_eJiURQow&list=PLxefhmF0pcPkg0Tkdt3wcuQ4LRDw81xI7
+
+### Simple Real State
+
+https://www.youtube.com/watch?v=AVS0wm5wohc
+
+### Library Management System
+
+https://www.youtube.com/playlist?list=PLsdZGHZMYvk3IuYl0OgPkSMNKOiSMISql
+
+### Quiz Website
+
+https://www.youtube.com/watch?v=veVZRLwfe6o
+
+### Hospital Management System
+
+https://www.youtube.com/playlist?list=PLHX2BgIiMeUrRt2GMo1nh-ENxjpyv1_4b
+
+## 9. C
+
+### Projects in C
+
+https://www.youtube.com/watch?v=eKXJzMhdO5A&list=PLVDtNpeX1lxCV-YnoGEXQKx3Anac-PF1r
+
+### Library Management System
+
+https://www.youtube.com/watch?v=L00f3z7WBRU
+
+## 10. C++
+
+### Transit Cost App
+
+https://www.youtube.com/watch?v=kjvwbRQp9js
+
+### C++ Projects
+
+https://www.youtube.com/playlist?list=PLkA0V_pYg0h7_MmrALAavZolSYaJJhOaP
+
+### Library Management System
+
+https://www.youtube.com/watch?v=AnTt13I_Cm0
+
+### Bank Management System
+
+https://www.youtube.com/watch?v=6OSVutwm_Ukw
+
+### More C++ Projects
+
+https://www.youtube.com/playlist?list=PL36enNxU148RzQ8zwL8FHgg7ef_-5p3cQ
