@@ -1,5 +1,4 @@
-# anotherCSProgram
-My take on the path to become a self-taught Developer/Data Scientist/Computer Scientist
+# Online courses and Moocs to learn how to code, data science and computer science.
 
 ## Repos to use:
 - https://github.com/jpromanonet/developer-roadmap
