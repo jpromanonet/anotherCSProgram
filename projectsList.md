@@ -318,3 +318,34 @@ https://www.youtube.com/watch?v=JnEH9tYLxLk
 
 https://www.youtube.com/playlist?list=PLqRPzrxigjjtwhDRaokRIcOdWe94VT2kP
 
+## 7. MEAN Stack
+
+### Angular 7 CRUD
+
+https://www.youtube.com/watch?v=jYvkMv7LzCw
+
+### Angular 5 Quiz with Web API
+
+https://www.youtube.com/watch?v=geEWd7mDlTI
+
+### Movie Recommendations
+
+https://www.youtube.com/watch?v=lKUFJJNfU1A
+
+### Employee Payroll
+
+https://www.youtube.com/watch?v=sWOXETusJNw
+
+### Chat App with MongoDB and Socket.io
+
+https://www.youtube.com/watch?v=8Y6mWhcdSUM
+
+### The MEAN Stack CRUD
+
+https://www.youtube.com/playlist?list=PLF0fAweo0Koi9QTvR4U-j7LphFx_Pnh-R
+
+### Task Manager App
+
+https://www.youtube.com/playlist?list=PLIjdNHWULhPSZFDzQU6AnbVQNNo1NTRpd
+
+## 8. PHP
