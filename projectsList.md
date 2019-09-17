@@ -18,6 +18,10 @@ https://www.youtube.com/watch?v=qWPtKtYEsN4
 
 https://www.youtube.com/watch?v=3GqUM4mEYKA
 
+### Vue Real-Time chat app
+
+https://www.youtube.com/watch?v=lcYn0tgUvHE&list=PL2dKqfImstaQBcNNb61hdOUlHIT8QDXo3
+
 ### Tutorial de desarrollo web - JavaScript, HTML, CSS - Rock Paper Scissors Game
 
 https://www.youtube.com/watch?v=jaVNP3nIAv0
@@ -279,3 +283,38 @@ https://www.youtube.com/playlist?list=PLbpAWbHbi5rNUuLTzreCl1g212G7qgzpR
 ### Inventory Management System from Scratch
 
 https://www.youtube.com/watch?v=csOmZeV5IWE&list=PLTPOhsA1ovnkyBbnG5RwF9YFWLCqsD0Nf
+
+## 6. MERN Stack
+
+### Voting App
+
+https://www.youtube.com/watch?v=0oziV0FLhXc&list=PLBeQxJQNprbgrNfcntLO8N2Y-dzlMZXZe
+
+### Social Media App
+
+https://www.youtube.com/watch?v=m_u6P5k0vP0
+
+### Phone E-Commerce 
+
+https://www.youtube.com/watch?v=-edmQKcOW8s
+
+### Pet Hotel
+
+https://www.youtube.com/watch?v=MMOvx38dXz4
+
+### CRUD with React
+
+https://www.youtube.com/watch?v=qvBZevK1HPo&list=PL2dKqfImstaRbG8WIBkeHyV1ic5dyiEMj
+
+### TODO List
+
+https://www.youtube.com/watch?v=yAFvDQt0ack
+
+### Twitter Clone
+
+https://www.youtube.com/watch?v=JnEH9tYLxLk
+
+### The E-commerce with MERN Stack
+
+https://www.youtube.com/playlist?list=PLqRPzrxigjjtwhDRaokRIcOdWe94VT2kP
+
