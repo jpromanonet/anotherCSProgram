@@ -409,3 +409,33 @@ https://www.youtube.com/watch?v=6OSVutwm_Ukw
 ### More C++ Projects
 
 https://www.youtube.com/playlist?list=PL36enNxU148RzQ8zwL8FHgg7ef_-5p3cQ
+
+## 11. Ruby & Ruby On Rails
+
+### Book Review App
+
+https://www.youtube.com/playlist?list=PLsyJtAEU4pGw3PCKAA4POHK6C2G2nnpLF
+
+### Checklist
+
+https://www.youtube.com/watch?v=Z9GaNNztcZk
+
+### Blog with comments
+
+https://www.youtube.com/watch?v=wbZ6yrVxScM
+
+### Instragram Clone with rails
+
+https://www.youtube.com/watch?v=MpFO4Zr0EPE
+
+### Project Management App
+
+https://www.youtube.com/playlist?list=PLY50tJSZs5ME-MDYEs9mwwJPfamf5HkbD
+
+### 12 Ruby apps - Part 1
+
+https://www.youtube.com/playlist?list=PLKjZPn9tgnbtyvPF23z4YsPCKdlnbJxqZ
+
+### 12 Ruby apps - Part 2
+
+https://www.youtube.com/playlist?list=PL23ZvcdS3XPLNdRYB_QyomQsShx59tpc-
