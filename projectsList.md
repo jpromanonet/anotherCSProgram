@@ -439,3 +439,23 @@ https://www.youtube.com/playlist?list=PLKjZPn9tgnbtyvPF23z4YsPCKdlnbJxqZ
 ### 12 Ruby apps - Part 2
 
 https://www.youtube.com/playlist?list=PL23ZvcdS3XPLNdRYB_QyomQsShx59tpc-
+
+## 12.Rust
+
+### Rust Projects
+
+https://www.youtube.com/playlist?list=PLJbE2Yu2zumDD5vy2BuSHvFZU0a6RDmgb
+
+## 13.Kotlin
+
+### Kotlin Projects
+
+https://www.youtube.com/playlist?list=PLJbE2Yu2zumB1WoKjp22NCv5mQaz0yFQE
+
+### IG Clone App
+
+https://www.youtube.com/playlist?list=PLxefhmF0pcPnPuhlBPBq_FdG2GXpgrhVJ
+
+### Calculator app 
+
+https://www.youtube.com/watch?v=EpP6KgJtHTk
