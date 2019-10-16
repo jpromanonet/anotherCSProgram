@@ -459,3 +459,31 @@ https://www.youtube.com/playlist?list=PLxefhmF0pcPnPuhlBPBq_FdG2GXpgrhVJ
 ### Calculator app 
 
 https://www.youtube.com/watch?v=EpP6KgJtHTk
+
+## 14. SQL
+
+### SQL Projects
+
+https://www.youtube.com/playlist?list=PLytVLgFoG6z1b4bAxqnNtvjz8T27nXd4h
+
+### Login and register with JSP
+
+https://www.youtube.com/watch?v=7bl8UrkYbaU
+
+### Library management system
+
+https://www.youtube.com/playlist?list=PLoUymbA7OmikLx-qmy6FqaIEiHuAqEW4F
+
+## 15. Oracle
+
+### Oracle Projects
+
+https://www.youtube.com/playlist?list=PLl35faAglKbefj2VVR0rZRKCVHtu-ZWXY
+
+### Oracle Tutorials with real life examples
+
+https://www.youtube.com/playlist?list=PLUWdEQb_2yqUaFAwNiYIh-KlnxWQiJQXJ
+
+### Oracle Projects Fundamental
+
+https://www.youtube.com/playlist?list=PLKE59SaBahMRTSMhwZj2pd4wFcJRALVCI
