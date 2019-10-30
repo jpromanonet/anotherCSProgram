@@ -72,6 +72,10 @@ https://www.youtube.com/watch?v=JypvfEPGWUY&list=PL_Ke9hJMFeR-j24W-DH3coIih2WlRD
 
 https://www.youtube.com/watch?v=jSs92OgzARY&list=PL_Ke9hJMFeR_LDN6_El0l4G15t1ZHXRF4
 
+### List of curated projects from DEV.TO
+
+https://dev.to/binconsole/curated-list-of-project-based-tutorials-project-based-learning-frontend-3c8l
+
 ## 2. Android
 
 ### Develop and Publish Flappy Bird in 3 Hours With Unity3D
