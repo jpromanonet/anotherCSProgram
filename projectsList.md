@@ -4,6 +4,8 @@ https://github.com/jpromanonet/project-based-learning
 
 https://dev.to/binconsole/curated-list-of-project-based-tutorials-project-based-learning-frontend-3c8l
 
+https://freshman.tech/
+
 # Project List from Youtube tutorials
 
 ## 1. JavaScript, HTML & CSS
