@@ -1,6 +1,8 @@
-# Another repo with more projects
+# Another repos and sites with more projects
 
 https://github.com/jpromanonet/project-based-learning
+
+https://dev.to/binconsole/curated-list-of-project-based-tutorials-project-based-learning-frontend-3c8l
 
 # Project List from Youtube tutorials
 
@@ -75,10 +77,6 @@ https://www.youtube.com/watch?v=JypvfEPGWUY&list=PL_Ke9hJMFeR-j24W-DH3coIih2WlRD
 ### 4 DOM Pig Game in HTML5 & CSS
 
 https://www.youtube.com/watch?v=jSs92OgzARY&list=PL_Ke9hJMFeR_LDN6_El0l4G15t1ZHXRF4
-
-### List of curated projects from DEV.TO
-
-https://dev.to/binconsole/curated-list-of-project-based-tutorials-project-based-learning-frontend-3c8l
 
 ## 2. Android
 
