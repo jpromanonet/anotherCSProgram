@@ -1,3 +1,19 @@
+# Online courses for free!(with certifications)
+
+https://github.com/jpromanonet/developer-roadmap
+
+https://github.com/jpromanonet/computer-science
+
+https://github.com/jpromanonet/coding-interview-university
+
+https://github.com/jpromanonet/go
+
+https://github.com/jpromanonet/data-science
+
+https://github.com/jpromanonet/TeachYourselfCS
+
+https://github.com/jpromanonet/awesome-courses
+
 # Another repos and sites with more projects
 
 https://github.com/jpromanonet/project-based-learning
