@@ -6,6 +6,8 @@ https://dev.to/binconsole/curated-list-of-project-based-tutorials-project-based-
 
 https://freshman.tech/
 
+https://www.florin-pop.com/blog/2019/09/100-days-100-projects
+
 # Project List from Youtube tutorials
 
 ## 1. JavaScript, HTML & CSS
