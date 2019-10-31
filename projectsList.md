@@ -1,3 +1,7 @@
+# Another repo with more projects
+
+https://github.com/jpromanonet/project-based-learning
+
 # Project List from Youtube tutorials
 
 ## 1. JavaScript, HTML & CSS
