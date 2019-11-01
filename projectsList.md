@@ -40,10 +40,6 @@ https://www.youtube.com/watch?v=U9T6YkEDkMo
 
 https://www.youtube.com/watch?v=qWPtKtYEsN4
 
-### Learn HTML5 Canvas By Creating A Drawing App
-
-https://www.youtube.com/watch?v=3GqUM4mEYKA
-
 ### Vue Real-Time chat app
 
 https://www.youtube.com/watch?v=lcYn0tgUvHE&list=PL2dKqfImstaQBcNNb61hdOUlHIT8QDXo3
