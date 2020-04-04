@@ -16,6 +16,8 @@ https://github.com/jpromanonet/awesome-courses
 
 # Another repos and sites with more projects
 
+https://github.com/jpromanonet/build-your-own-x
+
 https://github.com/jpromanonet/project-based-learning
 
 https://dev.to/binconsole/curated-list-of-project-based-tutorials-project-based-learning-frontend-3c8l
