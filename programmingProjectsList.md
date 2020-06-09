@@ -188,6 +188,22 @@ https://www.youtube.com/watch?v=qDif7GIsmg4&list=PLbte_tgDKVWQMdIVf6rLiZnrP9YjRX
 
 ## 3. Python
 
+### Student Management with Python and Tkinter
+
+https://www.youtube.com/watch?v=dlRXp4YSuG4
+
+### Projects with Tkinter
+
+https://www.youtube.com/watch?v=4-iU-vqbFbw&list=RDQM6QEu2yVk5aI&start_radio=1
+
+https://www.youtube.com/watch?v=-Q6sA9SqKps&list=PLMwjkhR91ZmNDsyL-CCMJrwaDFKcRmkCE
+
+https://www.youtube.com/watch?v=ECKA1Ojp_E0&list=PLhTjy8cBISEp6lNKUO3iwbB1DKAkRwutl
+
+https://www.youtube.com/watch?v=bZIXdP4vbwo
+
+https://www.youtube.com/watch?v=ZjQuEdo0cQg&list=PL288dDBJtFXBafn9LrkpYdgC2KR2Z9S1l
+
 ### Python Game Tutorial: Pong
 
 https://www.youtube.com/watch?v=C6jJg9Zan7w
