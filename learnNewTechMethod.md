@@ -1,7 +1,7 @@
 # Learning new tech method
 
-The main idea is to start learning a new tech by a hand-ons aproach and then get deep into the theory behind.
-
+## The main idea is to start learning a new tech by a hand-ons aproach and then get deep into the theory behind.
+---
 1. Search for blogs in Google, Medium or FreeCodeCamp with tutorial and little projects and follow throught them.
 
 2. Search and follow Youtube tutorials and make little projects.
