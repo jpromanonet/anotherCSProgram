@@ -39,4 +39,7 @@ https://www.youtube.com/user/barnacules1
 ### Tech Entertaining
 https://www.youtube.com/c/TechEntertaining/playlists
 
+### Web Dev Simplified
+https://www.youtube.com/c/WebDevSimplified/videos
+
 ---
