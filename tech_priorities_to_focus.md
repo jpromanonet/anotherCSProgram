@@ -42,4 +42,7 @@ https://www.youtube.com/c/TechEntertaining/playlists
 ### Web Dev Simplified
 https://www.youtube.com/c/WebDevSimplified/videos
 
+### Knowledge Hut
+https://www.youtube.com/channel/UC3gO0o6xe18NQ-TvJOXXCKA
+
 ---
