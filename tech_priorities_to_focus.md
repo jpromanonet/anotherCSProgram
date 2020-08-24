@@ -5,8 +5,7 @@
 1. University coding projects
 2. Matelab applications
 3. Personal projects in C++ and Python with Tkinter
-
----
+4. Youtube Channel's projects
 
 ## YouTube Channels to make projects
 
@@ -39,3 +38,5 @@ https://www.youtube.com/user/barnacules1
 
 ### Tech Entertaining
 https://www.youtube.com/c/TechEntertaining/playlists
+
+---
