@@ -9,40 +9,50 @@
 
 ## YouTube Channels to make projects
 
-### Dev Ed
+### Dev Ed (JS)
 https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q
 
-### Coding the Smart Way
+### Coding the Smart Way (JS)
 https://www.youtube.com/channel/UCLXQoK41TOcIsWtY-BgB_kQ
 
-### Ania Kubow
+### Ania Kubow (JS)
 https://www.youtube.com/channel/UC5DNytAJ6_FISueUfzZCVsw
 
-### One Lone Coder
+### One Lone Coder (C++)
 https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA
 
-### Bitwise Ar
+### Bitwise Ar (Arduino)
 https://www.youtube.com/c/BitwiseAr/playlists
 
-### Paul McWhorter
+### Paul McWhorter (Arduino)
 https://www.youtube.com/channel/UCfYfK0tzHZTpNFrc_NDKfTA
 
-### Core Electronics
+### Core Electronics (Arduino)
 https://www.youtube.com/channel/UCp5ShPYJvi2EA4hLUERa86w
 
-### Free Code Camp
+### Free Code Camp (Everyting)
 https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ
 
-### Barnacules Nerdgasm
+### Barnacules Nerdgasm (C#)
 https://www.youtube.com/user/barnacules1
 
-### Tech Entertaining
+### Tech Entertaining (Java)
 https://www.youtube.com/c/TechEntertaining/playlists
 
-### Web Dev Simplified
+### Web Dev Simplified (JS + HTML + CSS)
 https://www.youtube.com/c/WebDevSimplified/videos
 
-### Knowledge Hut
+### Knowledge Hut (JS & Theory)
 https://www.youtube.com/channel/UC3gO0o6xe18NQ-TvJOXXCKA
+
+### Project Worlds (PHP with Laravel and CodeIgniter + Django + Android)
+https://www.youtube.com/channel/UCFMkpvtYjSAPXUPjImQK7bg
+
+### PHP Projects
+https://www.youtube.com/results?search_query=php+projects
+
+### Python Projects
+
+https://www.youtube.com/results?search_query=tkinter+projects
 
 ---
