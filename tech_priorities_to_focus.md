@@ -13,7 +13,7 @@ https://www.youracclaim.com/organizations/ibm/badges?page=1
 
 ### SoloLearn
 https://www.sololearn.com/
-
+---
 ## Projects
 
 1. University coding projects
