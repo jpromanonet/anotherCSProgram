@@ -2,11 +2,17 @@
 
 ## Courses(With certificates)
 
+### Acamica
+https://globant.acamica.com
+
 ### Harvard CS50 full saga
 https://www.freecodecamp.org/news/harvard-cs50-guide/
 
 ### IBM Badges
 https://www.youracclaim.com/organizations/ibm/badges?page=1
+
+### SoloLearn
+https://www.sololearn.com/
 
 ## Projects
 
