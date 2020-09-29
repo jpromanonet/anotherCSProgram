@@ -1,4 +1,4 @@
-# Online courses for free!(with certifications)
+# Online courses for free!
 
 https://github.com/jpromanonet/developer-roadmap
 
