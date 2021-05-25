@@ -7,5 +7,7 @@
 # Courses & Study
 
 ### 1. Udemy
+#### 1.1. Full Ethical Hacking Course
+#### 1.2. French for Beginners
+#### 1.3. Master en PHP
 ### 2. College
-### 3. Other courses(maths, languages)
