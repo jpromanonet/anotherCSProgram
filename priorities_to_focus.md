@@ -29,3 +29,9 @@ https://www.youtube.com/watch?v=RrKRN9zRBWs
 https://www.youtube.com/results?search_query=solidity
 
 https://www.youtube.com/results?search_query=blockchain+freecodecamp
+
+# 4. Data Science
+
+https://www.youtube.com/results?search_query=data+science+free+codecamp
+
+https://www.youtube.com/channel/UCV8e2g4IWQqK71bbzGDEI4Q
