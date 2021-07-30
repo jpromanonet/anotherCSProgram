@@ -23,3 +23,9 @@ https://www.youtube.com/watch?v=ulprqHHWlng
 https://www.youtube.com/watch?v=lauywdXKEXI
 
 https://www.youtube.com/watch?v=RrKRN9zRBWs
+
+# 3. Blockchain
+
+https://www.youtube.com/results?search_query=solidity
+
+https://www.youtube.com/results?search_query=blockchain+freecodecamp
