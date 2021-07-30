@@ -10,6 +10,8 @@ https://www.youtube.com/results?search_query=node+freecodecamp
 
 https://www.youtube.com/watch?v=m_u6P5k0vP0
 
+https://www.youtube.com/channel/UC5DNytAJ6_FISueUfzZCVsw
+
 # 2. Cloud apps(AWS, Azure & GCloud)
 
 https://www.youtube.com/watch?v=-ANCcFQBk6I
