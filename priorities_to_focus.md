@@ -8,7 +8,16 @@ https://www.youtube.com/results?search_query=react+freecodecamp&sp=EgIYAg%253D%2
 
 https://www.youtube.com/results?search_query=node+freecodecamp
 
+https://www.youtube.com/watch?v=m_u6P5k0vP0
+
 # 2. Cloud apps(AWS, Azure & GCloud)
 
 https://www.youtube.com/watch?v=-ANCcFQBk6I
 
+https://www.youtube.com/watch?v=U3VSJhaC4kc
+
+https://www.youtube.com/watch?v=ulprqHHWlng
+
+https://www.youtube.com/watch?v=lauywdXKEXI
+
+https://www.youtube.com/watch?v=RrKRN9zRBWs
