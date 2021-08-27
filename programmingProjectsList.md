@@ -30,6 +30,10 @@ https://www.florin-pop.com/blog/2019/09/100-days-100-projects
 
 ## 1. JavaScript, HTML & CSS
 
+### Ania Kubow Channel (The best of the best to learn coding by making games in JS)
+
+https://www.youtube.com/c/AniaKub%C3%B3w
+
 ### Music App With Javascript :heavy_check_mark:
 
 https://www.youtube.com/watch?v=2VJlzeEVL8A 
