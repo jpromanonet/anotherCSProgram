@@ -434,6 +434,10 @@ https://www.youtube.com/watch?v=L00f3z7WBRU
 
 ## 10. C++
 
+### Building your own OS
+
+https://www.youtube.com/playlist?list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M
+
 ### Transit Cost App
 
 https://www.youtube.com/watch?v=kjvwbRQp9js
