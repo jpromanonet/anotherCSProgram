@@ -30,7 +30,9 @@ https://www.youtube.com/watch?v=RrKRN9zRBWs
 
 # 3. Blockchain
 
-https://www.youtube.com/watch?v=ci_AIMCF-HA --> Start here!
+https://cryptozombies.io/es --> Start here!
+
+https://www.youtube.com/watch?v=ci_AIMCF-HA
 
 https://www.youtube.com/results?search_query=solidity
 
