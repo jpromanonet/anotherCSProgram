@@ -569,3 +569,7 @@ https://www.youtube.com/watch?v=RrKRN9zRBWs
 https://www.youtube.com/results?search_query=data+science+free+codecamp
 
 https://www.youtube.com/channel/UCV8e2g4IWQqK71bbzGDEI4Q
+
+## 19. Project Management
+
+https://www.youtube.com/watch?v=uWPIsaYpY7U
