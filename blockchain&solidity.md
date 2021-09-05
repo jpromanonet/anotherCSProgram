@@ -25,3 +25,7 @@ https://www.youtube.com/watch?v=x-6ruqmNS3o ---> Step 04
 https://www.youtube.com/watch?v=OLsteD3xkPQ
 
 https://www.youtube.com/watch?v=f5npM1PvoyE
+
+## Blockchain Youtube Channels
+
+https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ
