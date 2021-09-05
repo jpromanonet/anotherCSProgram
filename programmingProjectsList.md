@@ -573,3 +573,5 @@ https://www.youtube.com/channel/UCV8e2g4IWQqK71bbzGDEI4Q
 ## 19. Project Management
 
 https://www.youtube.com/watch?v=uWPIsaYpY7U
+
+https://www.youtube.com/watch?v=vzqDTSZOTic
